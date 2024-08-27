@@ -73,7 +73,6 @@ def processCommand(c):
     # let OpenAI handle the request 
 
     else:
-        #speak(aiProcess(c)) ***needs money in OpenAI account to work hence commented out***
         pass
     
         
